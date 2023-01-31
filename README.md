@@ -1,7 +1,4 @@
-# INTRODUCTION
-Download the associated class files from the assignment in Canvas.
-
-## INSTRUCTIONS
+# INSTRUCTIONS
 Working in your assigned pairs, perform the following tasks.
 
 ## PART 1: SETUP 
