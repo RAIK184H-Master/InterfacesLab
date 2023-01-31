@@ -4,7 +4,7 @@ Working in your assigned pairs, perform the following tasks.
 ## PART 1: SETUP 
 1.	Download the code and import the project into Eclipse. 
 
-PART 2: ANALYZING INTERFACES 
+## PART 2: ANALYZING INTERFACES 
 2.	Read the source code for the HolidayAccount class and Driver.
 
 3.	Compile and execute Driver.
