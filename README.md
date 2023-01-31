@@ -54,7 +54,7 @@ Working in your assigned pairs, perform the following tasks.
 
 19.	ANSWER IN A TEXT FILE IN YOUR REPOSITORY: What output was generated?
 
-PART 2: GETTING MORE SOPHISTOCATED 
+## PART 3: GETTING MORE SOPHISTOCATED 
 20.	“Undo” the changes you just made to the class declaration or the `compareTo(HolidayAccount other)` method. 
 
 21.	Add the following method to the HolidayAccount class:
